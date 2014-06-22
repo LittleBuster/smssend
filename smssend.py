@@ -112,7 +112,7 @@ def main():
 		print("Error for get api-id. Check %s/.smssendrc or see --help" %(get_home_path()))
 		sys.exit(3)
 	
-	url="http://sms.ru/sms/send?api_id=%s&to=%s&text=%s&partner_id=3805" %(api_id, cliargs.to, quote(get_msg()))
+	url="http://sms.ru/sms/send?api_id=%s&to=%s&text=%s" %(api_id, cliargs.to, quote(get_msg()))
 	if cliargs.debug==True:
 		url="%s&test=1" % (url)
 	elif cliargs.sendername is not None:
