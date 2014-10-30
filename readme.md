@@ -1,14 +1,14 @@
 Sms Sender
 ==================================
 
-SmsSender - Класс отправки SMS сообщений из python. Использует API сервиса http://sms.ru/.
-Написана на Python.
-Автор Sergey LittleBuster Denisov.
-Автор первоначального приложения Denis Saymon21 Khabarov.
-Email DenisovS21@gmail.com.
-Лицензия GNU GPLv3.
-Текущая версия: 0.3.
-Репозиторий: https://github.com/LittleBuster/smssend
+SmsSender - Класс отправки SMS сообщений из python. Использует API сервиса http://sms.ru/.<br>
+Написана на Python.<br>
+Автор Sergey LittleBuster Denisov.<br>
+Автор первоначального приложения Denis Saymon21 Khabarov.<br>
+Email DenisovS21@gmail.com.<br>
+Лицензия GNU GPLv3.<br>
+Текущая версия: 0.3.<br>
+Репозиторий: https://github.com/LittleBuster/smssend<br>
 
 Функции:
 
