@@ -1,6 +1,7 @@
 Sms Sender
 ==================================
 
+
 SmsSender - Класс отправки SMS сообщений из python. Использует API сервиса http://sms.ru/
 Написана на Python.
 Автор Sergey LittleBuster Denisov
